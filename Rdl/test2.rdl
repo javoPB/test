@@ -1,5 +1,5 @@
 module pruebas {
     entity temp {
-        field campo1 : Decimal
+        field campo1 : Integer
     }
 }
