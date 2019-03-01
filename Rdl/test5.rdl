@@ -1,0 +1,5 @@
+module temporales {
+    entity temporal {
+        field campo1 : Currency
+    }
+}

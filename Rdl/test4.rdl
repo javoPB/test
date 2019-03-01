@@ -1,0 +1,5 @@
+module animales {
+    entity perro {
+        field color : Currency
+    }
+}

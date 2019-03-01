@@ -1,0 +1,5 @@
+module cosas {
+    entity cosa {
+        field cosa1 : Currency
+    }
+}
