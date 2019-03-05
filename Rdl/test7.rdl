@@ -1,0 +1,6 @@
+module computadoras {
+    entity laptopo {
+        field marca : Text
+        field modelo :  Text
+    }
+}
