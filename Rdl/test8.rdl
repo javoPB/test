@@ -1,0 +1,6 @@
+module horarios {
+    entity matutinos {
+        field campo1 : Currency
+        
+    }
+}
