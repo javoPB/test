@@ -1,0 +1,6 @@
+module equipos {
+    entity equipo {
+        field nombre : Text
+        field categoria : Text
+    }
+}
