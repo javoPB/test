@@ -3,5 +3,6 @@ module escuelas {
         field nombre : Text
         field direccion : Text
         field telefono : Text
+        field descripcion : Text
     }
 }
