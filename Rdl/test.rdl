@@ -1,6 +1,6 @@
 module pruebas {
     entity prueba {
-        field campo1 : Currency
-        field campo2 : Currency
+        field campo1 : Date
+        field campo2 : Date
     }
 }
