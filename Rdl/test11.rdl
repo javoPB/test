@@ -1,0 +1,6 @@
+module SistemasOperativos {
+    entity linux {
+        field nombre : Text
+        field version : Text
+    }
+}
