@@ -2,5 +2,6 @@ module escuelas {
     entity primarias {
         field nombre : Text
         field direccion : Text
+        field telefono : Text
     }
 }
